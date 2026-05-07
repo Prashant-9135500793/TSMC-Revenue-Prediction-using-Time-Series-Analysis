@@ -1,6 +1,6 @@
 ---
 title: "TSMC Revenue Forecasting using Time Series Analysis"
-author: "Rohit Jangid, Gaurish Bansal"
+author: "Prashant Shekhar"
 date: "`r Sys.Date()`"
 output: 
     pdf_document:
