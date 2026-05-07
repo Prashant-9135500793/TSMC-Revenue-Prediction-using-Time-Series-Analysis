@@ -63,8 +63,8 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 For additional information or inquiries, please contact:
 
-- **Name**: Rohit Karwa
-- **Email**: krohit22@iitk.ac.in
+- **Name**: Prashant Shekhar
+- **Email**: prashantsh22@iitk.ac.in
 
 Thank you for your interest in this project! Your feedback and collaboration are greatly appreciated.
 
